@@ -1,2 +1,2 @@
 # RestExample
-Simple Rest Example.
+Simple go lang  Rest Example.
